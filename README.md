@@ -1,4 +1,4 @@
-# Saveript Information
+# Saveript
 
 VERSIONE 1.2 | Novità
 
